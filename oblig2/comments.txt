@@ -1,3 +1,0 @@
-##Firstly added the project to github and then set up a action to run the test.
-##Had to do some refactoring of some of the names in order to make it run properly.
-##
